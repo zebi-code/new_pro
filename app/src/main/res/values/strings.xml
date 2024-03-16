@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">1st Mobile App</string>
+    <String name='test'>"Hello World"</String>
+</resources>
